@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main(){
+     int a,b;
+     cout<<a+b<<endl;
+     cout<<"hello world!!!!!!!!!"<<endl;
+     cout<<"I love you all the time !!!!"<<endl;
+     system("pause");
+     return 0; 
+}
