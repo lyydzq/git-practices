@@ -16,3 +16,8 @@ void test01(){
    cout<<"YOU WILL FACE THE DAY WHEN THE CURTAIN COMES DOWN"<<endl;
    
 }
+
+void test02()
+{
+   cout<<"83721ubcikZXvhhsDJKgufdilgvbjcxkzb vjsdKLGfvbVDSJK>a"<<endl;
+}
