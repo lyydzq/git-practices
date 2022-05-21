@@ -3,8 +3,16 @@ using namespace std;
 int main(){
      int a,b;
      cout<<a+b<<endl;
+     
      cout<<"hello world!!!!!!!!!"<<endl;
      cout<<"I love you all the time !!!!"<<endl;
      system("pause");
      return 0; 
+}
+
+void test01(){
+   
+   cout<<"whenever you are at rightnow ！！！"<<endl;
+   cout<<"YOU WILL FACE THE DAY WHEN THE CURTAIN COMES DOWN"<<endl;
+   
 }
